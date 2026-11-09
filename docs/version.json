@@ -1,19 +1,19 @@
 {
   "app": {
-    "versionCode": 4,
-    "versionName": "1.0.4",
+    "versionCode": 5,
+    "versionName": "1.0.5",
     "apkUrl": "",
     "apkName": "",
     "changelog": "phiên bannr cut mềm"
   },
   "firmware": {
-    "versionCode": 4,
-    "versionName": "1.0.4",
-    "binUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.4/firmware.bin",
+    "versionCode": 5,
+    "versionName": "1.0.5",
+    "binUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.5/firmware.bin",
     "binName": "firmware.bin",
-    "secondaryBinUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.4/littlefs.bin",
+    "secondaryBinUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.5/littlefs.bin",
     "secondaryBinName": "littlefs.bin",
-    "oledBinUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.4/littlefs.bin",
+    "oledBinUrl": "https://github.com/phamngocty/tulamdientu.github.io/releases/download/v1.0.5/littlefs.bin",
     "changelog": "phiên bannr cut mềm"
   },
   "assets": []
